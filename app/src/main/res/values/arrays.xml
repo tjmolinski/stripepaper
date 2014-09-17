@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="themes">
+        <item>algeria</item>
+        <item>chocolate_bomb</item>
+        <item>mellon_ball_suprise</item>
+        <item>adrift_in_dreams</item>
+        <item>thought_provoking</item>
+        <item>sugar</item>
+        <item>giant_goldfish</item>
+        <item>salty_sorbet_sunset</item>
+        <item>backyard_fall_haven</item>
+        <item>milkman</item>
+        <item>redhead</item>
+    </string-array>
+
+    <string-array name="theme_names">
+        <item>Algeria</item>
+        <item>Chocolate Bomb</item>
+        <item>Melon Ball Suprise</item>
+        <item>Adrift In Dreams</item>
+        <item>Thought Provoking</item>
+        <item>Sugar</item>
+        <item>Giant Goldfish</item>
+        <item>Salty Sorbet Sunset</item>
+        <item>Backyard Fall Haven</item>
+        <item>Milkman</item>
+        <item>70\'s Redhead</item>
+    </string-array>
+    
+    <!-- http://www.colourlovers.com/palette/2626412/Algeria -->
+    <array name="algeria">
+        <item>#FF79897c</item>
+        <item>#FF968A60</item>
+        <item>#FF6A6047</item>
+        <item>#FF3F3B30</item>
+        <item>#FF29271C</item>
+    </array>
+    <!-- http://www.colourlovers.com/palette/2691005/Chocolate_Bomb -->
+    <array name="chocolate_bomb">
+        <item>#FF320503</item>
+        <item>#FF7b3915</item>
+        <item>#FF935B2F</item>
+        <item>#FFB77727</item>
+        <item>#FFB69374</item>
+    </array>
+    <!-- http://www.colourlovers.com/palette/373610/mellon_ball_surprise -->
+    <array name="mellon_ball_suprise">
+        <item>#FFD1F2A5</item>
+        <item>#FFEFFAB4</item>
+        <item>#FFFFC48C</item>
+        <item>#FFFF9F80</item>
+        <item>#FFF56991</item>
+    </array>
+    <!-- http://www.colourlovers.com/palette/443995/i_demand_a_pancake -->
+    <array name="i_demand_a_pancake">
+        <item>#FF594F4F</item>
+        <item>#FF547980</item>
+        <item>#FF45ADA8</item>
+        <item>#FF9DE0AD</item>
+        <item>#FFE5FCC2</item>
+    </array>
+    <!-- http://www.colourlovers.com/palette/580974/Adrift_in_Dreams -->
+    <array name="adrift_in_dreams">
+        <item>#FFCFF09E</item>
+        <item>#FFA8DBA8</item>
+        <item>#FF79BD9A</item>
+        <item>#FF3B8686</item>
+        <item>#FF0B486B</item>
+    </array>
+    <!-- http://www.colourlovers.com/palette/694737/Thought_Provoking -->
+    <array name="thought_provoking">
+        <item>#FFECD078</item>
+        <item>#FFD95B43</item>
+        <item>#FFC02942</item>
+        <item>#FF542437</item>
+        <item>#FF53777A</item>
+    </array>
+    <!-- http://www.colourlovers.com/palette/629637/%28%E2%97%95%E3%80%9D%E2%97%95%29 -->
+    <array name="sugar">
+        <item>#FFFE4365</item>
+        <item>#FFFC9D9A</item>
+        <item>#FFF9CDAD</item>
+        <item>#FFC8C8A9</item>
+        <item>#FF83AF9B</item>
+    </array>
+    <!-- http://www.colourlovers.com/palette/92095/Giant_Goldfish -->
+    <array name="giant_goldfish">
+        <item>#FF69D2E7</item>
+        <item>#FFA7DBD8</item>
+        <item>#FFE0E4CC</item>
+        <item>#FFF38630</item>
+        <item>#FFFA6900</item>
+    </array>
+    <!-- http://www.colourlovers.com/palette/2423248/SaltySorbetSunset -->
+    <array name="salty_sorbet_sunset">
+        <item>#FF113650</item>
+        <item>#FF0A1B66</item>
+        <item>#FF4E79E9</item>
+        <item>#FFFEA38E</item>
+        <item>#FFFE697D</item>
+    </array>
+    <!-- http://www.colourlovers.com/palette/2474681/BackyardFallHaven -->
+    <array name="backyard_fall_haven">
+        <item>#FF36433A</item>
+        <item>#FF595E46</item>
+        <item>#FF98945E</item>
+        <item>#FFA74A45</item>
+        <item>#FF0C141F</item>
+    </array>
+    <!-- http://www.colourlovers.com/palette/2508548/Milkman -->
+    <array name="milkman">
+        <item>#FF0E243E</item>
+        <item>#FF1B70A5</item>
+        <item>#FFE47760</item>
+        <item>#FFEED588</item>
+        <item>#FFF2F4F1</item>
+    </array>
+    <!-- http://www.colourlovers.com/palette/392531/70s_Redhead -->
+    <array name="redhead">
+        <item>#FFA8A701</item>
+        <item>#FF4A2701</item>
+        <item>#FFEDA900</item>
+        <item>#FFFEEDB8</item>
+        <item>#FFB73801</item>
+    </array>
+</resources>

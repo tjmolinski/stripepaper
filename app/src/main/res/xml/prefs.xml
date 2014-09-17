@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:key="touch" android:title="Enable Touch" android:summary="Create a stripe on touch" android:defaultValue="false"></CheckBoxPreference>
+    <EditTextPreference android:key="speed" android:title="Speed" android:summary="Set how fast the stripe move left and right" android:defaultValue="1" android:inputType="number" android:selectAllOnFocus="true"></EditTextPreference>
+    <EditTextPreference android:key="speedRange" android:title="Speed Range" android:summary="Set randomness to the speed" android:defaultValue="2" android:inputType="number" android:selectAllOnFocus="true"></EditTextPreference>
+    <EditTextPreference android:key="width" android:title="Width" android:summary="Set how wide the stripe are" android:defaultValue="50" android:inputType="number" android:selectAllOnFocus="true"></EditTextPreference>
+    <EditTextPreference android:key="widthRange" android:title="Width Range" android:summary="Set randomness to the width" android:defaultValue="20" android:inputType="number" android:selectAllOnFocus="true"></EditTextPreference>
+    <ListPreference android:key="theme" android:title="Theme" android:entries="@array/theme_names" android:entryValues="@array/themes"/>
+</PreferenceScreen>

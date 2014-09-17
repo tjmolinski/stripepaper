@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stripepaper</string>
+    <string name="reset_to_default">Reset to default?</string>
+    <string name="are_you_sure_default">Are you sure you want to reset to default?</string>
+    <string name="defualt_settings">Default Settings</string>
+    <string name="preferences">Preferences</string>
+</resources>
