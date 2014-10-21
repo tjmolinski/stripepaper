@@ -169,19 +169,8 @@ public class MyWallpaperService extends WallpaperService {
         }
 
         private int getRandomColor() {
-            double rand = Math.random();
-
-            if(rand < .2) {
-                return colors.getColor(0, 0);
-            } else if(rand < .4) {
-                return colors.getColor(1, 0);
-            } else if(rand < .6) {
-                return colors.getColor(2, 0);
-            } else if(rand < .8) {
-                return colors.getColor(3, 0);
-            } else {
-                return colors.getColor(4, 0);
-            }
+            double val = Math.round(Math.random() * (colors.length()-1));
+            return colors.getColor((int)val, 0);
         }
 
         private void checkForChanges() {

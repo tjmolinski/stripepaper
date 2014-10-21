@@ -12,6 +12,17 @@
         <item>backyard_fall_haven</item>
         <item>milkman</item>
         <item>redhead</item>
+        <item>limeade_on_ice</item>
+        <item>blonde</item>
+        <item>you_will_be_free</item>
+        <item>newly_risen_moon</item>
+        <item>she_is_french</item>
+        <item>deep_sky_blues</item>
+        <item>gentle_waves</item>
+        <item>gamebookers</item>
+        <item>good_friends</item>
+        <item>ocean_five</item>
+        <item>sounds_like_worms</item>
     </string-array>
 
     <string-array name="theme_names">
@@ -26,6 +37,17 @@
         <item>Backyard Fall Haven</item>
         <item>Milkman</item>
         <item>70\'s Redhead</item>
+        <item>Limeade On Ice</item>
+        <item>Blonde</item>
+        <item>You Will Be Free</item>
+        <item>Newly Risen Moon</item>
+        <item>She Is French, Yes?</item>
+        <item>Deep Sky Blues</item>
+        <item>Gentle Waves</item>
+        <item>Gamebookers</item>
+        <item>Good Friends</item>
+        <item>Ocean Five</item>
+        <item>Sounds Like Worms</item>
     </string-array>
     
     <!-- http://www.colourlovers.com/palette/2626412/Algeria -->
@@ -123,5 +145,113 @@
         <item>#FFEDA900</item>
         <item>#FFFEEDB8</item>
         <item>#FFB73801</item>
+    </array>
+
+    <!--http://www.colourlovers.com/palette/497335/Limeade_on_Ice-->
+    <array name="limeade_on_ice">
+        <item>#FF59A80F</item>
+        <item>#FF9ED54C</item>
+        <item>#FFC4ED68</item>
+        <item>#FFE2FF9E</item>
+        <item>#FFF0F2DD</item>
+    </array>
+
+    <!--http://www.colourlovers.com/palette/380547/Blonde-->
+    <array name="blonde">
+        <item>#FFD8C078</item>
+        <item>#FFE3CC88</item>
+        <item>#FFF2DA91</item>
+        <item>#FFF2E1AE</item>
+        <item>#FFF2E7C7</item>
+    </array>
+
+    <!--http://www.colourlovers.com/palette/452030/you_will_be_free-->
+    <array name="you_will_be_free">
+        <item>#FFF7F9FE</item>
+        <item>#FFECF1F2</item>
+        <item>#FFDCE8EB</item>
+        <item>#FFCBDBE0</item>
+        <item>#FFBED2D9</item>
+    </array>
+
+    <!--http://www.colourlovers.com/palette/90734/Newly_Risen_Moon-->
+    <array name="newly_risen_moon">
+        <item>#FFEEE6AB</item>
+        <item>#FFC5BC8E</item>
+        <item>#FF696758</item>
+        <item>#FF45484B</item>
+        <item>#FF36393B</item>
+    </array>
+
+    <!--http://www.colourlovers.com/palette/174686/She_Is_French_Yes-->
+    <array name="she_is_french">
+        <item>#FF3E4147</item>
+        <item>#FFFFFEDF</item>
+        <item>#FFDFBA69</item>
+        <item>#FF5A2E2E</item>
+        <item>#FF2A2C31</item>
+    </array>
+
+    <!--http://www.colourlovers.com/palette/334208/Deep_Skyblues-->
+    <array name="deep_sky_blues">
+        <item>#FF107FC9</item>
+        <item>#FF0E4EAD</item>
+        <item>#FF0B108C</item>
+        <item>#FF0C0F66</item>
+        <item>#FF07093D</item>
+    </array>
+
+    <!--http://www.colourlovers.com/palette/475875/Gentle_Waves-->
+    <array name="gentle_waves">
+        <item>#FFD3E2B6</item>
+        <item>#FFC3DBB4</item>
+        <item>#FFAACCB1</item>
+        <item>#FF87BDB1</item>
+        <item>#FF68B3AF</item>
+    </array>
+
+    <!--http://www.colourlovers.com/palette/482774/dream_magnet-->
+    <array name="dream_magnet">
+        <item>#FF343838</item>
+        <item>#FF005F6B</item>
+        <item>#FF008C9E</item>
+        <item>#FF00B4CC</item>
+        <item>#FF00DFFC</item>
+    </array>
+
+    <!--http://www.colourlovers.com/palette/148712/Gamebookers-->
+    <array name="gamebookers">
+        <item>#FFFF9900</item>
+        <item>#FF424242</item>
+        <item>#FFE9E9E9</item>
+        <item>#FFBCBCBC</item>
+        <item>#FF3299BB</item>
+    </array>
+
+    <!--http://www.colourlovers.com/palette/77121/Good_Friends-->
+    <array name="good_friends">
+        <item>#FFD9CEB2</item>
+        <item>#FF948C75</item>
+        <item>#FFD5DED9</item>
+        <item>#FF7A6A53</item>
+        <item>#FF99B2B7</item>
+    </array>
+
+    <!--http://www.colourlovers.com/palette/1473/Ocean_Five-->
+    <array name="ocean_five">
+        <item>#FF00A0B0</item>
+        <item>#FF6A4A3C</item>
+        <item>#FFCC333F</item>
+        <item>#FFEB6841</item>
+        <item>#FFEDC951</item>
+    </array>
+
+    <!--http://www.colourlovers.com/palette/3524788/Sounds_like_worms-->
+    <array name="sounds_like_worms">
+        <item>#FF13242C</item>
+        <item>#FF6A8481</item>
+        <item>#FF989881</item>
+        <item>#FF2F4B4E</item>
+        <item>#FF827442</item>
     </array>
 </resources>
